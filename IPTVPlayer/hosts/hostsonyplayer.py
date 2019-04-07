@@ -2,6 +2,8 @@
 ###################################################
 # 2019-03-18 Celeburdi
 ###################################################
+HOST_VERSION = "1.0"
+###################################################
 # LOCAL import
 ###################################################
 from Plugins.Extensions.IPTVPlayer.components.iptvplayerinit import TranslateTXT as _, SetIPTVPlayerLastHostError
